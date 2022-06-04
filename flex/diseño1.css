@@ -1,0 +1,130 @@
+.fondo{
+    /*CAJA MADRE*/
+    width: 60rem;
+    height: 50rem;
+    background-color: blanchedalmond;
+    position: relative;
+    left: 38rem;
+  
+}
+.nave{
+    background-color: gainsboro;
+    width: 100%;
+    height: 4rem;
+    margin: 5rem 0rem 0rem 0rem; 
+    
+    display: flex;
+    flex-direction: row;
+}
+.uno{
+    width: 20px;
+    height: 2rem;
+    background-color: red;
+    margin: 1rem 2rem 6rem 2rem;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+.dos{
+    width: 20px;
+    height: 2rem;
+    background-color: orange;
+    margin: 1rem 0rem 0rem 0rem;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+    
+}
+.tres{
+    width: 20px;
+    height: 2rem;
+    background-color: greenyellow;
+    margin: 1rem 0rem 0rem 2rem;
+    border-top-left-radius: 50% 50%;
+    border-top-right-radius: 50% 50%;
+    border-bottom-right-radius: 50% 50%;
+    border-bottom-left-radius: 50% 50%;
+}
+.caja2{
+    display: flex;
+    flex-direction: row;
+}
+.rojo{
+    background-color: red;
+    width: 400px;
+    height: 8rem;
+    margin: 1rem 0rem 0rem 1rem;
+
+}
+.rojo2{
+    background-color: red;
+    width: 170px;
+    height: 8rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    
+}
+.tercera{
+    display: flex;
+    flex-direction: row;
+    
+}
+.naranja{
+    background-color: orange;
+    width: 650px;
+    height: 25rem;
+    position: relative;
+    left: 1rem;
+    top: 1rem;
+    
+}
+.morado{
+    background-color: purple;
+    width: 322px;
+    height: 12rem;
+    position: relative;
+    left: 2rem;
+    top: 1rem;
+}
+.morado2{
+    background-color: purple;
+    width: 322px;
+    height: 12rem;
+    position: relative;
+    right: 13rem;
+    top: 14rem;
+}
+.caja3{
+    display: flex;
+    flex-direction: row;
+}
+.azul{
+    background-color: blue;
+    width: 200px;
+    height: 8rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 1rem;
+    top: 2rem;
+}
+.azul2{
+    background-color: blue;
+    width: 180px;
+    height: 8rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 2rem;
+    top: 2rem;
+}.azul3{
+    background-color: blue;
+    width: 170px;
+    height: 8rem;
+    margin: 1rem rem 0rem 1rem;
+    position: relative;
+    left: 3rem;
+    top: 2rem;
+}
